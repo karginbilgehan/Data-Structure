@@ -1,0 +1,13 @@
+/**
+ * @author Bilgehan
+ */
+public class mainTest {
+        public static void main(String args[]) {
+            Test run=new Test();
+            run.test();
+
+        }
+
+
+    }
+
