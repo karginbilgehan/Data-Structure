@@ -1,2 +1,2 @@
 # Data-Structure
-This is a repository for Data Structure's Homeworks 
+Data Structure's Homeworks during my 4th semester. 
